@@ -1,0 +1,14 @@
+Placez ici les photos de Zion, en gardant exactement ces noms :
+
+zion.jpg    -> grande photo ronde en haut de la page
+photo1.jpg  -> Naissance
+photo2.jpg  -> 1 mois
+photo3.jpg  -> 2 mois
+photo4.jpg  -> 4 mois
+photo5.jpg  -> 6 mois
+photo6.jpg  -> 8 mois
+photo7.jpg  -> 10 mois
+photo8.jpg  -> 12 mois
+
+Conseil : photos carrées si possible, moins de 500 Ko chacune (le site reste rapide).
+Les légendes se changent en haut du fichier index.html (ligne "legendes").
